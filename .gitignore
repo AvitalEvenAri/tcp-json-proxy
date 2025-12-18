@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.pcap
+*.pcapng
+.DS_Store
+.idea/
